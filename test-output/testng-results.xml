@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-03T13:56:15 IST" name="Default suite" finished-at="2024-10-03T13:57:08 IST" duration-ms="53326">
+    <groups>
+    </groups>
+    <test started-at="2024-10-03T13:56:15 IST" name="Default test" finished-at="2024-10-03T13:57:08 IST" duration-ms="53326">
+      <class name="jay.Test.LoginTestCases">
+        <test-method is-config="true" signature="report()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:56:15 IST" name="report" finished-at="2024-10-03T13:56:15 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="launchWebsite()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:56:15 IST" name="launchWebsite" finished-at="2024-10-03T13:56:28 IST" duration-ms="12342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebsite -->
+        <test-method signature="loginFive()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:56:28 IST" name="loginFive" finished-at="2024-10-03T13:56:41 IST" duration-ms="13117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFive -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:56:41 IST" name="tearDown" finished-at="2024-10-03T13:56:41 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchWebsite()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:56:41 IST" name="launchWebsite" finished-at="2024-10-03T13:56:46 IST" duration-ms="4562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebsite -->
+        <test-method signature="loginFour()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:56:46 IST" name="loginFour" finished-at="2024-10-03T13:56:48 IST" duration-ms="2174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFour -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:56:48 IST" name="tearDown" finished-at="2024-10-03T13:56:48 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchWebsite()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:56:48 IST" name="launchWebsite" finished-at="2024-10-03T13:56:52 IST" duration-ms="4464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebsite -->
+        <test-method signature="loginOne()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:56:52 IST" name="loginOne" finished-at="2024-10-03T13:56:54 IST" duration-ms="1973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOne -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:56:54 IST" name="tearDown" finished-at="2024-10-03T13:56:55 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchWebsite()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:56:55 IST" name="launchWebsite" finished-at="2024-10-03T13:56:59 IST" duration-ms="4340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebsite -->
+        <test-method signature="loginThree()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:56:59 IST" name="loginThree" finished-at="2024-10-03T13:57:01 IST" duration-ms="2135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginThree -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:57:01 IST" name="tearDown" finished-at="2024-10-03T13:57:01 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchWebsite()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:57:01 IST" name="launchWebsite" finished-at="2024-10-03T13:57:04 IST" duration-ms="2724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebsite -->
+        <test-method signature="loginTwo()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:57:04 IST" name="loginTwo" finished-at="2024-10-03T13:57:08 IST" duration-ms="3712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTwo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:57:08 IST" name="tearDown" finished-at="2024-10-03T13:57:08 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="reportflush()[pri:0, instance:jay.Test.LoginTestCases@75437611]" started-at="2024-10-03T13:57:08 IST" name="reportflush" finished-at="2024-10-03T13:57:08 IST" duration-ms="608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportflush -->
+      </class> <!-- jay.Test.LoginTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

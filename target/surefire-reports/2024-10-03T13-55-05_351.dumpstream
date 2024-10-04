@@ -1,0 +1,5 @@
+# Created at 2024-10-03T13:55:06.163
+Boot Manifest-JAR contains absolute paths in classpath 'G:\spring-tool\sts-4.21.0.RELEASE\CuraHealthcareProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
